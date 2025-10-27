@@ -20,8 +20,8 @@ It provides access to real window metadata, supports app-specific collectors, an
 
 ## Requirements
 
-- macOS 13.0 or later  
-- Swift 5.9 or later  
+- macOS 14.0 or later  
+- Swift 6 or later  
 - Full Accessibility permissions (System Settings → Privacy & Security → Accessibility)  
 - Xcode 15 or later  
 
